@@ -80,3 +80,33 @@
 // });
 
 // console.log(ans);
+
+// let company = {
+//     name: 'Saylani',
+//     location: 'Sukkur',
+//     employee: [
+//         {
+//             name: 'Yasir Ahmed',
+//         },
+
+//         {
+//             name: 'Sammar Abbas',
+//         }
+//     ]
+// }
+
+// company.employee.forEach((empoly)=> {
+//     console.log(empoly.name);
+
+// });
+
+// const products = [1, 'Samsang', 20000, 0];
+
+// products[1];
+// products.length;
+// JSON.stringify(products);
+
+// if (products[3] <= 0) {
+//     console.log('Soory Stock Out');
+// }
+
